@@ -1,0 +1,71 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 669px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  width: 655px;
+  font-weight: 400;
+  font-size: 4.5rem;
+  margin: 244px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 78px;
+  margin: 88px 198px 60px 250px;
+}
+
+.u-section-1 .u-input-1 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.u-section-1 .u-input-2 {
+  font-weight: 700;
+  font-style: italic;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    width: 655px;
+    margin-left: 150px;
+    margin-right: 98px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    margin-left: 28px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-size: 1.5rem;
+    margin-top: 179px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 213px;
+    margin-top: 72px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
